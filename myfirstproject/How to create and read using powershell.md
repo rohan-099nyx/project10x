@@ -1,7 +1,5 @@
 Absolutely. Today you learned the \*\*basics of creating, reading, editing, overwriting, and appending to files using PowerShell\*\*.
 
-
-
 \## 🧠 What you learned today
 
 
